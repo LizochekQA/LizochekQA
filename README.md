@@ -1,6 +1,6 @@
  # :wink: About me 
       
- ### Hi, my name is Elizabeth, but for you Lizochek. I am a QA engineer. All you need to know is that I am young and ambitious, ready to move mountains and cross seas for my own purpose.
+ ### Hi, my name is Elizaveta, but but call me Liza. I am a QA engineer. All you need to know is that I am young and ambitious, ready to move mountains :mountain: and cross seas 🏊 for my own purpose.
     
 # :man_student: EDUCATION & COURSES
   ### -Kyiv National University of Trade and Economics
