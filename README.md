@@ -14,4 +14,6 @@
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/elizaveta-ivchyk-70b2a7212/)
   [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)]( https://t.me/Lizochek_Ivchyk)
   
+  ### :sparkles: More detail information you can find in my [repositories](https://github.com/LizochekQA?tab=repositories).
+
   
